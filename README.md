@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on creating a shell with a group. You can find the repo of our project on [21sh](https://github.com/hlaineka/21sh)
+I am currently working on creating a shell with a group. You can find the repo of our project at [21sh](https://github.com/hlaineka/21sh)
 
 My earlier projects: 
  - ft_select, a small program using termcaps library to create an interface.[ft_select](https://github.com/hlaineka/ft_select)
@@ -9,4 +9,4 @@ My earlier projects:
 
 See also our demo of our Hack the Crisis winning idea of a remote learning platform for small students [Kauko app demo](https://whispering-anchorage-96723.herokuapp.com/)
 
-You can fing my portfolio in https://hlaineka.github.io/
+You can fing my portfolio at https://hlaineka.github.io/
