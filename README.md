@@ -7,6 +7,6 @@ My earlier projects:
  - minishell, the first shell project creating a simple command interpreter. [minishell](https://github.com/hlaineka/minishell)
  - ft_ls, a redo of the ls command. [ft_ls](https://github.com/hlaineka/ft_ls)
 
-See also our demo of our Hack the Crisis winning idea of a remote learning platform for small students [Kauko app demo](https://whispering-anchorage-96723.herokuapp.com/)
+See also our demo of our Hack the Crisis winning idea of a remote learning platform for small students [Kauko app demo](https://whispering-anchorage-96723.herokuapp.com/). More info on the process of creating the demo can be found on [Hive Helsinki homepage](https://www.hive.fi/en/article/student-project-kauko-app/)
 
 You can fing my portfolio at https://hlaineka.github.io/
