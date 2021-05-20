@@ -11,3 +11,9 @@ My earlier projects:
 See also our demo of our Hack the Crisis winning idea of a remote learning platform for small students [Kauko app demo](https://whispering-anchorage-96723.herokuapp.com/). More info on the process of creating the demo can be found on [Hive Helsinki homepage](https://www.hive.fi/en/article/student-project-kauko-app/)
 
 You can fing my portfolio at https://hlaineka.github.io/
+
+## And because we all love stats:
+
+![hlaineka's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaineka&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlaineka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
